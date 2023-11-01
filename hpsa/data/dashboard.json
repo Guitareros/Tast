@@ -1,0 +1,233 @@
+{
+    "dashboard": [{
+        "name":"Close pin popup",
+        "class":"icon icon-Click-Out ng-star-inserted",
+        "nth":0
+    },{
+        "name":"createAccountOrSignIn",
+        "class":"againstVa value text-line-1",
+        "nth":0
+    },{
+        "name":"Username",
+        "class":"css-64vr5c",
+        "nth":0
+    },{
+        "name":"Password",
+        "class":"css-slgxwf",
+        "nth":0
+    },{
+        "name":"Profile",
+        "class":"againstVa value text-line-1",
+        "nth":0
+    },{
+        "name":"Sign out",
+        "class":"profile-item-li",
+        "nth":1
+    },{
+        "name":"Yes in Sign out popup",
+        "class":"btn flex-row-center hp-button-secondary",
+        "nth":0
+    },{
+        "name":"Specifications",
+        "class":"item flex-column-center hasData ng-star-inserted",
+        "nth":0
+    },{
+        "name":"Audio",
+        "class":"title flex-row-between-center",
+        "nth":2
+    },{
+        "name":"Battery",
+        "class":"title flex-row-between-center",
+        "nth":3
+    },{
+        "name":"Network",
+        "class":"title flex-row-between-center",
+        "nth":4
+    },{
+        "name":"Video",
+        "class":"title flex-row-between-center",
+        "nth":5
+    },{
+        "name":"SpecificationsList",
+        "class":"specification",
+        "nth":0
+    },{
+        "name":"SpecificationsClose",
+        "class":"icon-Click-Out icon-button-primary",
+        "nth":0
+    },{
+        "name":"WarrantyCard",
+        "class":"icon-wrap flex-row-center red skeleton-circle",
+        "nth":0
+    },{
+        "name":"WarrantyBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"AdditionalInformation",
+        "class":"title hp-link againstVa",
+        "nth":0
+    },{
+        "name":"BatteryCheck",
+        "class":"againstVa title hp-link",
+        "nth":0
+    },{
+        "name":"BatteryCheckBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"CheckCPU",
+        "class":"title hp-link againstVa",
+        "nth":0
+    },{
+        "name":"CheckCPUBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    }
+    ,{
+        "name":"CheckSystemMemory",
+        "class":"title hp-link againstVa",
+        "nth":1
+    },{
+        "name":"CheckSystemMemoryBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"CheckConnectivity",
+        "class":"title hp-link againstVa",
+        "nth":2
+    },{
+        "name":"CheckConnectivityBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"ComponentTest",
+        "class":"title hp-link againstVa skip-disabled",
+        "nth":0
+    },{
+        "name":"ComponentTestBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"CheckStorage",
+        "class":"title hp-link againstVa",
+        "nth":4
+    },{
+        "name":"CheckStorageBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"Settings",
+        "class":"icon-wrap flex-row-center",
+        "nth":0
+    },{
+        "name":"AboutHPSA",
+        "class":"hp-link",
+        "nth":4
+    },{
+        "name":"SeeAll",
+        "class":"more againstVa ng-star-inserted",
+        "nth":0
+    },{
+        "name":"Feedback",
+        "class":"feedback icon-wrap flex-row-center",
+        "nth":0
+    },{
+        "name":"OneStar",
+        "class":"rate-item flex-column-top-center ng-star-inserted",
+        "nth":0
+    },{
+        "name":"TwoStars",
+        "class":"rate-item flex-column-top-center ng-star-inserted",
+        "nth":1
+    },{
+        "name":"ThreeStars",
+        "class":"rate-item flex-column-top-center ng-star-inserted",
+        "nth":2
+    },{
+        "name":"FourStars",
+        "class":"rate-item flex-column-top-center ng-star-inserted",
+        "nth":3
+    },{
+        "name":"FiveStars",
+        "class":"rate-item flex-column-top-center ng-star-inserted",
+        "nth":4
+    },{
+        "name":"FeedbackTextboxunselect",
+        "class":"ta ng-untouched ng-pristine ng-valid",
+        "nth":0
+    },{
+        "name":"FeedbackTextboxselect",
+        "class":"ta ng-pristine ng-valid ng-touched",
+        "nth":0
+    },{
+        "name":"FeedbackCancel",
+        "class":"btn flex-row-center hp-button-secondary",
+        "nth":0
+    },{
+        "name":"DeviceName",
+        "class":"title skeleton ng-tns-c78-3 ng-star-inserted",
+        "nth":0
+    },{
+        "name":"SerialNumber",
+        "class":"sn skeleton ng-tns-c78-3 ng-star-inserted",
+        "nth":0
+    },{
+        "name":"ProductNumber",
+        "class":"pn skeleton ng-tns-c78-3 ng-star-inserted",
+        "nth":0
+    },{
+        "name":"RunBatteryCheck",
+        "class":"btn flex-row-center hp-button-primary",
+        "nth":0
+    },{
+        "name":"ExceptionBtn",
+        "class":"btn flex-row-center hp-button-secondary",
+        "nth":0
+    },{
+        "name":"RunBatteryCheckDisabled",
+        "class":"btn flex-row-center disabled hp-button-primary",
+        "nth":0
+    },{
+        "name":"CPUCheckCancel",
+        "class":"ng-tns-c101-6 cancel hp-link skeleton",
+        "nth":0
+    },{
+        "name":"CPUCheckPassImage",
+        "class":"icon icon-Passed ng-star-inserted",
+        "nth":0
+    },{
+        "name":"LoggedIn",
+        "class":"Logged-in-icon skeleton-circle ng-star-inserted",
+        "nth":0
+    },{
+        "name":"WarrantyCardGetDetail",
+        "class":"item grey",
+        "nth":0
+    },{
+        "name":"WarrantyCardGetDetailYES",
+        "class":"btn flex-row-center hp-button-primary",
+        "nth":0
+    },{
+        "name":"FeedbackLink",
+        "class":"privacy hp-link",
+        "nth":0
+    },{
+        "name":"VirtualAgent",
+        "class":"description-wrap flex-column-top-left",
+        "nth":0
+    },{
+        "name":"VirtualAgentDown",
+        "class":"down",
+        "nth":0
+    },{
+        "name":"VirtualAgentUp",
+        "class":"up",
+        "nth":0
+    },{
+        "name":"VirtualAgentClose",
+        "class":"icon icon-Click-Out ng-star-inserted",
+        "nth":0
+    }
+]
+}

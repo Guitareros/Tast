@@ -1,0 +1,115 @@
+{
+    "welcome": [{
+        "name":"let's get start",
+        "class":"btn flex-row-center hp-button-primary",
+        "nth":0
+    },
+    {
+        "name":"Launch HP Support Assistant",
+        "class":"btn flex-row-center hp-button-primary",
+        "nth":0
+    },
+    
+    {
+        "name":"Select region",
+        "class":"ipt hp-dropdown ng-star-inserted",
+        "nth":0
+    },{
+        "name":"drop region menu",
+        "class":"menu dd-menu",
+        "nth":0
+    },{
+        "name":"selectregion",
+        "class":"text-line-1",
+        "nth":0
+    },{
+        "name":"Continue",
+        "class":"btn flex-row-center hp-button-primary",
+        "nth":0
+    },{
+        "name":"Don't show again",
+        "class":"cb hp-checkbox",
+        "nth":0
+    },{
+        "name":"Continue as Guest",
+        "class":"hp-link-underline ng-star-inserted",
+        "nth":0
+    },{
+        "name":"warranty option",
+        "class":"cb hp-checkbox",
+        "nth":1
+    },{
+        "name":"usage data",
+        "class":"cb hp-checkbox",
+        "nth":2
+    },{
+        "name":"improve my experience",
+        "class":"btn flex-row-center hp-button-primary",
+        "nth":0
+    },{
+        "name":"Close pin popup",
+        "class":"icon icon-Click-Out ng-star-inserted",
+        "nth":0
+    },{
+        "name":"createAccountOrSignIn",
+        "class":"againstVa value text-line-1",
+        "nth":0
+    },{
+        "name":"Username",
+        "class":"css-64vr5c",
+        "nth":0
+    },{
+        "name":"Password",
+        "class":"css-slgxwf",
+        "nth":0
+    },{
+        "name":"Profile",
+        "class":"againstVa value text-line-1",
+        "nth":0
+    },{
+        "name":"Sign out",
+        "class":"profile-item-li",
+        "nth":1
+    },{
+        "name":"Yes in Sign out popup",
+        "class":"btn flex-row-center hp-button-secondary",
+        "nth":0
+    },{
+        "name":"Specifications",
+        "class":"item flex-column-center hasData ng-star-inserted",
+        "nth":0
+    },{
+        "name":"Network",
+        "class":"title flex-row-between-center",
+        "nth":4
+    },{
+        "name":"SpecificationsList",
+        "class":"specification",
+        "nth":0
+    },{
+        "name":"SpecificationsClose",
+        "class":"icon-Click-Out icon-button-primary",
+        "nth":0
+    },{
+        "name":"WarrantyCard",
+        "class":"icon-wrap flex-row-center red skeleton-circle",
+        "nth":0
+    },{
+        "name":"WarrantyBack",
+        "class":"back icon-Arrow-Left icon-button-primary ng-star-inserted",
+        "nth":0
+    },{
+        "name":"CreateAccount",
+        "class":"sign-btn flex-row-center",
+        "nth":0
+    },{
+        "name":"Details",
+        "class":"detail-action hp-link flex-row-left-center",
+        "nth":0
+    },{
+        "name":"LetsShareLater",
+        "class":"later-link hp-link-underline flex-row-center ng-star-inserted",
+        "nth":0
+    }
+]
+}
